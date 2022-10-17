@@ -1,4 +1,4 @@
-Hi everyone!👋 I’m @JoeyFaris
+Hi!👋 I’m @JoeyFaris
 - 👨‍💻 Early career software engineer
 - 🌱 My stack mainly includes: Javascript, React, and Ruby on Rails with some knowledge in Python, SQL, PostgreSQL
 - 💡 I’m looking to collaborate on any open source projects in order to expand my skillset.
